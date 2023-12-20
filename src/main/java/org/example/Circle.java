@@ -1,6 +1,6 @@
 package org.example;
 
-public class Circle extends Figure{
+public class Circle extends Figugit checkoutre{
     private double radius;
 
 
