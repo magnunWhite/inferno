@@ -1,6 +1,10 @@
 package org.example;
 
-public enum Color {
-        WHITE, RED, BLUE, GREEN
+public class Color {
+    private String descricao;
+
+    public Color(String descricao) {
+        this.descricao = descricao;
     }
+}
 

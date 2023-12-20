@@ -1,7 +1,7 @@
 package org.example;
 
 public abstract class Figure {
-    Color color;
+    private Color color;
     public Figure(Color color)
     {
         this.color = color;
